@@ -1,4 +1,4 @@
-# 0x0E. ES6 Basics
+# 0x00. ES6 Basics
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
 :copyright: **[Holberton School](https://www.holbertonschool.com/)**  
@@ -53,5 +53,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [ ] 14. Iterate through object
 
 ## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+Nnamdi Udeh  
+:octocat: [GitHub](https://github.com/Endy4elect)
