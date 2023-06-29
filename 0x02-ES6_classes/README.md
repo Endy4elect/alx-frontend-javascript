@@ -1,7 +1,6 @@
-# 0x10. ES6 classes
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+# 0x02. ES6 classes
+:open_file_folder: Specializations - Web Stack programming ― Front-end  
+:bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works
 :bookmark: classes | javascript | metaprogramming | syntactical sugar
 
 ## Resources
@@ -36,5 +35,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 11. EVCar
 
 ## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+Nnamdi Udeh  
+:octocat: [GitHub](https://github.com/Endy4elect/)
